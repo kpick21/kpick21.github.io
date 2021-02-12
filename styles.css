@@ -1,0 +1,60 @@
+title {
+    font-family: 'IM Fell DW Pica', serif;
+    background-color: #0211b8;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+h3 {
+  padding-top: 30 px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+}
+.container {
+  width: 450px;
+  height: 700px;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.footer {
+  position: relative;
+  bottom: 0px;
+  padding-top: 500px;
+}
